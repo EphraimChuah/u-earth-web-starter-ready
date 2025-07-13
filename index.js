@@ -2,9 +2,10 @@
 
 export default function Home() {
   return (
-    <div>
-      <h1>Hello, U-Earth is Online! 🌍</h1>
-      <p>This is your starter page.</p>
+    <div style={{ padding: '50px', textAlign: 'center' }}>
+      <h1>🎉 U-Earth 真正上线成功！</h1>
+      <p>你讲的我都听到了，AI正式听你指挥。</p>
     </div>
   );
 }
+
